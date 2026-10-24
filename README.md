@@ -10,7 +10,7 @@ Most "300+ places to launch your startup" lists are link dumps. Half the sites a
 - Submitting to every paid listing here costs **$488.09** total
 - Cheapest **paid** DR 70+ placement: [LaunchIgniter](https://launchigniter.com/?utm_source=awesome-startup-launch-directories&utm_medium=referral) at **$12** (DR 75)
 - Outbound link policy measured on **17** of them: **8 dofollow**, **2 nofollow**, **7 mixed**
-- DR figures last refreshed **2026-10-24**; link policy **2026-09-06**
+- DR figures last refreshed **2026-10-13**; link policy **2026-09-06**
 - Domain Rating by [Ahrefs](https://ahrefs.com/)
 <!-- END:STATS -->
 

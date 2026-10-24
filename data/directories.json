@@ -1,7 +1,7 @@
 {
   "$schema": "./schema.json",
   "meta": {
-    "lastUpdated": "2026-10-24",
+    "lastUpdated": "2026-10-13",
     "drSource": "Ahrefs Domain Rating via the free domain-rating-free API (point-in-time snapshot)",
     "currency": "USD",
     "linkPolicyCheckedOn": "2026-09-06"
